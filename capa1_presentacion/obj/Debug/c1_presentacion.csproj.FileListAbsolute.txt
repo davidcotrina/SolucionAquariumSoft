@@ -1,0 +1,179 @@
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe.config
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe.config
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.exe
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c3_dominio.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c3_dominio.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe.config
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.exe
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDetalleGrupo.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormInscribirAlumno.resources
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe.config
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.exe
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDetalleGrupo.resources
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormInscribirAlumno.resources
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe.config
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.exe
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDetalleGrupo.resources
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormInscribirAlumno.resources
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe.config
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDetalleGrupo.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormInscribirAlumno.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe.config
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\bin\Debug\c4_persistencia.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormDetalleGrupo.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormInscribirAlumno.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\AquariumSoft_Presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\AquariumSoft.exe.config
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\bin\Debug\c4_persistencia.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\c1_presentacion.FormDetalleGrupo.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\c1_presentacion.FormInscribirAlumno.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c1_presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\AquariumSoft.exe.config
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\AquariumSoft.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\bin\Debug\c4_persistencia.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\c1_presentacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\c1_presentacion.FormDatosAlumno.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\c1_presentacion.FormDetalleGrupo.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\c1_presentacion.FormGestionarAlumnos.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\c1_presentacion.FormInscribirAlumno.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\c1_presentacion.FormMenu.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\c1_presentacion.Properties.Resources.resources
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c1_presentacion\obj\Debug\c1_presentacion.csproj.GenerateResource.Cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v6\c1_presentacion\bin\Debug\AquariumSoft.exe.config
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v6\c1_presentacion\obj\Debug\AquariumSoft.exe
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v6\c1_presentacion\obj\Debug\AquariumSoft.pdb
+D:\10-CASOS\AquariumSoft\04-Implementacion\AquariumSoft_v6\c1_presentacion\bin\Debug\AquariumSoft.exe.config
+D:\10-CASOS\AquariumSoft\04-Implementacion\AquariumSoft_v6\c1_presentacion\obj\Debug\AquariumSoft.exe
+D:\10-CASOS\AquariumSoft\04-Implementacion\AquariumSoft_v6\c1_presentacion\obj\Debug\AquariumSoft.pdb
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\c1_presentacion\bin\Debug\AquariumSoft.exe.config
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\c1_presentacion\obj\Debug\AquariumSoft.exe
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\c1_presentacion\obj\Debug\AquariumSoft.pdb
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa1_presentacion\bin\Debug\AquariumSoft.exe.config
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa1_presentacion\obj\Debug\AquariumSoft.exe
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa1_presentacion\obj\Debug\AquariumSoft.pdb

@@ -1,0 +1,5 @@
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa3_dominio\bin\Debug\c3_dominio.dll
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa3_dominio\bin\Debug\c3_dominio.pdb
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa3_dominio\obj\Debug\capa3_dominio.csprojResolveAssemblyReference.cache
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa3_dominio\obj\Debug\c3_dominio.dll
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa3_dominio\obj\Debug\c3_dominio.pdb

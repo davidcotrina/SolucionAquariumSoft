@@ -1,0 +1,59 @@
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe.config
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormMenu.resources
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.Properties.Resources.resources
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csproj.GenerateResource.Cache
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.exe
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S06\AquariumSoft_v1\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormGestionarAlumnos.resources
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe.config
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.exe
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormGestionarAlumnos.resources
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormMenu.resources
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.Properties.Resources.resources
+E:\01-ACADEMICA\UPN\01-MAS\2014-2\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csproj.GenerateResource.Cache
+M:\UPN\01-MAS\S07\AquariumSoft_v2\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe.config
+M:\UPN\01-MAS\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.exe
+M:\UPN\01-MAS\S07\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe.config
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.exe
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormGestionarAlumnos.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormMenu.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe.config
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.exe
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormGestionarAlumnos.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormMenu.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v2\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.formDatosAlumno.resources
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormDatosAlumno1.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe.config
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.exe
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormDatosAlumno.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormGestionarAlumnos.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.FormMenu.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.Properties.Resources.resources
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v3\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.csproj.GenerateResource.Cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\bin\Debug\AquariumSoft_Presentacion.exe.config
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.exe
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\AquariumSoft_Presentacion\obj\Debug\AquariumSoft_Presentacion.pdb

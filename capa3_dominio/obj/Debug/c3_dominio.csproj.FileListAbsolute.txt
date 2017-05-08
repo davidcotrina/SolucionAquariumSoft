@@ -1,0 +1,35 @@
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c3_dominio\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c3_dominio\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c3_dominio\obj\Debug\c3_dominio.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c3_dominio\obj\Debug\c3_dominio.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c3_dominio\bin\Debug\c3_dominio.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c3_dominio\bin\Debug\c3_dominio.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c3_dominio\obj\Debug\c3_dominio.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c3_dominio\obj\Debug\c3_dominio.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c3_dominio\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c3_dominio\obj\Debug\c3_dominio.pdb

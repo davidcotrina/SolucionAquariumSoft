@@ -1,0 +1,72 @@
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v4\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\AquariumSoft_v4\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\Users\Programador\Documents\Visual Studio 2013\Projects\MOANSO\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+M:\.Trashes\UPN\01-MAS\S14\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\Users\Lain\Documents\Visual Studio 2013\Projects\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\AppCasos\AquariumSoft\04-Implementacion\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s10\lab\AquariumSoft_v5\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\bin\Debug\c3_dominio.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\bin\Debug\c4_persistencia.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\bin\Debug\c3_dominio.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+E:\01-ACADEMICA\UPN\01-MAS\2015-1\s11\lab\AquariumSoft_v6\c2_aplicacion\obj\Debug\c2_aplicacion.pdb

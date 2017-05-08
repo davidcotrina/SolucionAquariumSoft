@@ -1,0 +1,9 @@
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\obj\Debug\capa2_aplicacion.csprojResolveAssemblyReference.cache
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\obj\Debug\c2_aplicacion.dll
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\obj\Debug\c2_aplicacion.pdb
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\bin\Debug\c2_aplicacion.dll
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\bin\Debug\c2_aplicacion.pdb
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\bin\Debug\c3_dominio.dll
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\bin\Debug\c4_persistencia.dll
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\bin\Debug\c3_dominio.pdb
+D:\01-UNIVERSIDAD\02-UPN\05-MOANSO\13\Laboratorio-Semana13\SolucionAquariumSoft_2\capa2_aplicacion\bin\Debug\c4_persistencia.pdb
